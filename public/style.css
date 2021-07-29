@@ -1,0 +1,12 @@
+.parent{
+    height: 100vh;
+    border: 10px orange solid;
+}
+h1{
+    width: 50px;
+}
+.timer{
+    border: 5px yellow solid;
+    border-radius: 5%;
+    margin: 2.5%;
+}
